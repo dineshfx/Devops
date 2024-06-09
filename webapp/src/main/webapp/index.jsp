@@ -69,7 +69,7 @@
         <div id="countdown">00 Days : 00 Hours : 00 Minutes : 00 Seconds</div>
         <div class="subscription">
             <input type="email" placeholder="Enter your email">
-            <button>Notify Me when the website is launched</button>
+            <button>Notify Me</button>
         </div>
         <div class="social-icons">
             <a href="#">Facebook</a>
